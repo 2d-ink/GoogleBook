@@ -2,7 +2,7 @@
   "name": "react-book-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2d-ink.github.io/Google-Book-Search",
+  "homepage": "https://2d-ink.github.io/GoogleBook",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.4.1",
